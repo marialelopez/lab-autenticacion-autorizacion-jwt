@@ -23,5 +23,10 @@
     "supertest": "^6.3.1"
   },
   "author": "Sergio Marentes",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
 }
